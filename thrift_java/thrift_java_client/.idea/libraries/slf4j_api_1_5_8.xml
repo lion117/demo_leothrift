@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="slf4j-api-1.5.8">
+    <CLASSES>
+      <root url="jar://D:/program/third_party/thrift-0.9.2/libs/slf4j-api-1.5.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
